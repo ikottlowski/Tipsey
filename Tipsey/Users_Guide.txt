@@ -1,0 +1,11 @@
+Tipsey v0.5
+
+Immanuel Kottlowski
+CSCI-A290
+03/08/2014
+
+User's Guide:
+
+Install the aplication and click the "About" button and all will be revealed.
+
+Enjoy!
